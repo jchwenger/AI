@@ -1,0 +1,6 @@
+# vim
+*.sw*
+
+# python
+**/__pycache__
+**/.ipynb_checkpoints
