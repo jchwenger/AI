@@ -1,5 +1,5 @@
 # vim
-*.sw*
+*.sw?
 
 # python
 **/__pycache__
