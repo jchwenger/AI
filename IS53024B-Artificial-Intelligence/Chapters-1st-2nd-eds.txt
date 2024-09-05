@@ -1,0 +1,36 @@
+﻿Second edition
+(First edition)
+
+Chapter 1: What is deep learning?
+(Chapter 1: What is deep learning?)
+
+Chapter 2: The mathematical building blocks of neural networks
+(Chapter 2: Before we begin: the mathematical building blocks of neural networks)
+
+Chapter 3: Introduction to Keras and TensorFlow
+Chapter 4: Getting started with neural networks: Classification and regression
+(Chapter 3: Getting started with neural networks)
+
+Chapter 5: Fundamentals of machine learning
+Chapter 6: The universal workflow of machine learning
+(Chapter 4: Fundamentals of machine learning)
+
+Chapter 7: Working with Keras: A deep dive
+(Chapter 7: Advanced deep-learning best practices)
+
+Chapter 8: Introduction to deep learning for computer vision
+Chapter 9: Advanced deep learning for computer vision
+(Chapter 5: Deep learning for computer vision)
+
+Chapter 10: Deep learning for timeseries
+Chapter 11: Deep learning for text
+(Chapter 6: Deep learning for text and sequences)
+
+Chapter 12: Generative deep learning
+(Chapter 8: Generative deep learning)
+
+Chapter 13: Best practices for the real world
+(Chapter 7: Advanced deep-learning best practices)
+
+Chapter 14: Conclusions
+(Chapter 9: Conclusions)
