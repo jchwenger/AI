@@ -7,3 +7,12 @@
 
 # MacOS
 **/.DS_Store
+
+# dataset & models directories
+**/dogs-vs-cats
+**/aclImdb
+**/spa-eng
+**/glove
+**/jena
+
+**/models
