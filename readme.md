@@ -99,7 +99,7 @@ Grant Sanderson / 3Blue1Brown, [Essence of linear algebra](https://www.youtube.c
 
 Chris Piech, [Stanford CS109 Introduction to Probability for Computer Scientists I 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 
-David Mackay, [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+David Mackay, [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) ([site](https://www.inference.org.uk/mackay/itila/))
 
 Gilbert Strang, [Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
@@ -127,7 +127,7 @@ Christopher M. Bishop, Hugh Bishop, [*Deep Learning: Foundations and Concepts*](
 
 Stuart Russell and Peter Norvig, [*Artificial Intelligence: A Modern Approach*](https://aima.cs.berkeley.edu/)
 
-David Mackay, [*Information Theory, Pattern Recognition, and Neural Networks*](https://www.cambridge.org/gb/academic/subjects/computer-science/pattern-recognition-and-machine-learning/information-theory-inference-and-learning-algorithms?format=HB&isbn=9780521642989)
+David Mackay, [*Information Theory, Pattern Recognition, and Neural Networks*](https://www.cambridge.org/gb/academic/subjects/computer-science/pattern-recognition-and-machine-learning/information-theory-inference-and-learning-algorithms?format=HB&isbn=9780521642989) ([site](https://www.inference.org.uk/mackay/itila/))
 
 ## News, paper discussions
 
