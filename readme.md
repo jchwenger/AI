@@ -10,6 +10,8 @@ Grant Sanderson / 3Blue1Brown, [Neural Networks](https://www.youtube.com/watch?v
 
 Alexander Amini and Ava Amini, [MIT Introduction to Deep Learning 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) ([site](http://introtodeeplearning.com/))
 
+[OpenAI Microscope](https://openai.com/blog/microscope/)
+
 ## History & Background
 
 Chris Bishop, [Artificial Intelligence, the History and Future](https://www.youtube.com/watch?v=8FHBh_OmdsM)
@@ -102,8 +104,6 @@ David Mackay, [Information Theory, Pattern Recognition, and Neural Networks](htt
 Gilbert Strang, [Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
 ## Blogs
-
-[OpenAI Microscope](https://openai.com/blog/microscope/)
 
 [Distill](https://distill.pub/)
 
