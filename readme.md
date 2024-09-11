@@ -8,7 +8,7 @@ Grant Sanderson / 3Blue1Brown, [Neural Networks](https://www.youtube.com/watch?v
 
 Alexander Amini and Ava Amini, [MIT Introduction to Deep Learning 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI), ([site](http://introtodeeplearning.com/))
 
-## History & Background
+## History & Background
 
 Chris Bishop, [Artificial Intelligence, the History and Future](https://www.youtube.com/watch?v=8FHBh_OmdsM)
 
@@ -38,9 +38,9 @@ Cynthia Dwork, [The Emerging Theory of Algorithmic Fairness](https://www.youtube
 
 ## Additional resources
 
-### Deep Learning
+### Deep Learning
 
-### Practical approaches
+### Practical approaches
 
 Andrew Ng ([deeplearning.ai](https://www.deeplearning.ai/)), [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (free auditing available if you go to the page of each individual course), [YouTube channel](https://www.youtube.com/@Deeplearningai/playlists)
 
@@ -49,7 +49,7 @@ Jeremy Howard ([fast.ai](fast.ai)), [Practical Deep Learning for Coders](https:/
 
 Andrej Karpathy, [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
-### Theory
+### Theory
 
 Andrew Ng, [Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), ([site](https://cs230.stanford.edu/))
 
@@ -59,7 +59,7 @@ Sergey Levine, [Berkeley CS 182 Deep Learning](https://www.youtube.com/playlist?
 
 Alfredo Canziani, [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) ([site](https://atcold.github.io/NYU-DLSP21/))
 
-### Unsupervised Learning, Vision, NLP, etc.
+### Unsupervised Learning, Vision, NLP, etc.
 
 Percy Liang and Dorsa Sadigh, [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) ([site](https://stanford-cs221.github.io/spring2024/))
 
@@ -77,7 +77,7 @@ Chelsea Finn, [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.yo
 
 Jure Leskovec, [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) ([2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
 
-### Deep Reinforcement Learning
+### Deep Reinforcement Learning
 
 Emma Brunskill, [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
