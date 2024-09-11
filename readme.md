@@ -4,9 +4,11 @@ Course taught at Goldsmiths College, University of London, built on François Ch
 
 ## Recommended resources
 
+[Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.01418&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
 Grant Sanderson / 3Blue1Brown, [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-Alexander Amini and Ava Amini, [MIT Introduction to Deep Learning 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI), ([site](http://introtodeeplearning.com/))
+Alexander Amini and Ava Amini, [MIT Introduction to Deep Learning 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) ([site](http://introtodeeplearning.com/))
 
 ## History & Background
 
@@ -51,7 +53,7 @@ Andrej Karpathy, [Neural Networks: Zero to Hero](https://www.youtube.com/playlis
 
 ### Theory
 
-Andrew Ng, [Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), ([site](https://cs230.stanford.edu/))
+Andrew Ng, [Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) ([site](https://cs230.stanford.edu/))
 
 [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) ([2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc))
 
@@ -63,7 +65,7 @@ Alfredo Canziani, [NYU Deep Learning SP21](https://www.youtube.com/playlist?list
 
 Percy Liang and Dorsa Sadigh, [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) ([site](https://stanford-cs221.github.io/spring2024/))
 
-Fei-Fei Li, [Stanford CS231 Computer Vision](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), ([site](http://cs231n.stanford.edu/))
+Fei-Fei Li, [Stanford CS231 Computer Vision](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) ([site](http://cs231n.stanford.edu/))
 
 Chris Manning, [Stanford CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)), ([site](https://web.stanford.edu/class/cs224n/))
 
@@ -129,6 +131,10 @@ Gilbert Strang, [Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL4
 
 ## News, paper discussions
 
+Andrew Ng ([deeplearning.ai](https://www.deeplearning.ai/)), [Heroes of Deep Learning](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
+
+Lex Fridman, [YouTube channel](https://www.youtube.com/c/lexfridman)
+
 Yannic Kilcher, [YouTube channel](https://www.youtube.com/c/YannicKilcher)
 
 AI Coffee Break with Letitia, [YouTube channel](https://www.youtube.com/@AICoffeeBreak)
@@ -136,7 +142,3 @@ AI Coffee Break with Letitia, [YouTube channel](https://www.youtube.com/@AICoffe
 Artem Kirsanov, [YouTube channel](https://www.youtube.com/@ArtemKirsanov)
 
 Two Minutes Papers, [YouTube channel](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
-
-Andrew Ng ([deeplearning.ai](https://www.deeplearning.ai/)), [Heroes of Deep Learning](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
-
-Lex Fridman, [YouTube channel](https://www.youtube.com/c/lexfridman)
