@@ -79,6 +79,8 @@ Pieter Abbeel et al, [Berkeley CS 284-158 Deep Unsupervised Learning -- Berkeley
 
 Pieter Abbeel, Igor Mordatch, [Berkeley CS 188 Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
 
+[Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
 Chelsea Finn, [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36))
 
 Jure Leskovec, [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) ([2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
