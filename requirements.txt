@@ -1,0 +1,7 @@
+jupyter
+tensorflow
+numpy
+matplotlib
+unidecode
+pillow
+tqdm
