@@ -53,6 +53,8 @@ Jeremy Howard ([fast.ai](fast.ai)), [Practical Deep Learning for Coders](https:/
 
 Andrej Karpathy, [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+Sebastian Raschka, [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
 #### Theory
 
 Andrew Ng, [Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) ([site](https://cs230.stanford.edu/))
@@ -61,7 +63,7 @@ DeepMind x UCL, [Deep Learning Lecture Series 2020](https://www.youtube.com/play
 
 Sergey Levine, [Berkeley CS 182 Deep Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
-Alfredo Canziani, [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) ([site](https://atcold.github.io/NYU-DLSP21/))
+Yann LeCun & Alfredo Canziani, [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) ([site](https://atcold.github.io/NYU-DLSP21/))
 
 ### Unsupervised Learning, Vision, NLP, etc.
 
