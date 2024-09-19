@@ -30,6 +30,10 @@ Cynthia Dwork, [The Emerging Theory of Algorithmic Fairness](https://www.youtube
 
 ### Deep Learning
 
+#### Refreshers
+
+Ana Bell, [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022 ](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
+
 #### Practical approaches
 
 Andrew Ng ([deeplearning.ai](https://www.deeplearning.ai/)), [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (free auditing available if you go to the page of each individual course), [YouTube channel](https://www.youtube.com/@Deeplearningai/playlists)
@@ -38,6 +42,8 @@ Jeremy Howard ([fast.ai](fast.ai)), [Practical Deep Learning for Coders](https:/
 –, [Practical Deep Learning Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
 
 Andrej Karpathy, [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+Sasha Rush et al, [MiniTorch](https://minitorch.github.io/)
 
 Sebastian Raschka, [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
