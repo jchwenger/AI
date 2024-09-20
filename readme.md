@@ -36,3 +36,6 @@ Chris Bishop, [Artificial Intelligence, the History and Future](https://www.yout
 
 [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)
 
+---
+
+For (quite a few) more resources, see [here](https://github.com/jchwenger/AI/blob/main/resources.md).
