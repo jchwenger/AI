@@ -101,6 +101,8 @@ Gilbert Strang, [Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL4
 
 ## Blogs
 
+Michael Nielsen, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)  
+
 [Distill](https://distill.pub/)
 
 [Chris Olah](https://colah.github.io)

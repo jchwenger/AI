@@ -13,3 +13,26 @@ Alexander Amini and Ava Amini, [MIT Introduction to Deep Learning 6.S191](https:
 [OpenAI Microscope](https://openai.com/blog/microscope/)
 
 Chris Bishop, [Artificial Intelligence, the History and Future](https://www.youtube.com/watch?v=8FHBh_OmdsM)
+
+---
+
+## Technical References
+
+[TensorFlow documentation](https://www.tensorflow.org/tutorials/)
+
+[Stanford CS231 Python, Numpy and colab guide](http://cs231n.github.io/python-numpy-tutorial/)
+
+[LearnPython.org](https://www.learnpython.org/)
+
+[Complete Python 3 documentation and tutorials](https://docs.python.org/3/index.html)
+
+[Numpy](http://www.numpy.org)
+
+[Matplotlib](https://matplotlib.org)
+
+[Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)
+
