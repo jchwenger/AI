@@ -10,7 +10,7 @@ A comprehensive software to work with Python (and more) is [Anaconda](https://ww
 
 For less memory-greedy options, but requiring interacting with the terminal:
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (the same as above, just does not install any libraries by default).
-- [Miniforge](https://github.com/conda-forge/miniforge), recommended for Mac M1/2/3 users
+- [Miniforge](https://github.com/conda-forge/miniforge), recommended for Mac M1/2/3 users (this currently includes `mamba`, just below).
 - [Mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html), a C++ reimplementation of `conda`, the package manager of Anaconda. Still in development, but resolves issues of speed found in Anaconda.
 
 Launch Anaconda
@@ -106,5 +106,4 @@ $ source env/bin/activate
 (AI2024) $ # ...your python session...
 (AI2024) $ quit()
 (AI2024) $ deactivate
-$
 ```
