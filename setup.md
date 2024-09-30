@@ -13,17 +13,17 @@ For less memory-greedy options, but requiring interacting with the terminal:
 - [Miniforge](https://github.com/conda-forge/miniforge), recommended for Mac M1/2/3 users (this currently includes `mamba`, just below).
 - [Mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html), a C++ reimplementation of `conda`, the package manager of Anaconda. Still in development, but resolves issues of speed found in Anaconda.
 
-Launch Anaconda
+## 2. Launch Anaconda
 
-Create a new python 3.x environment
+**NOTE: when using `conda`, it is *strongly* recommended never to use the `base` environment, the one coming out of the box with `conda`, and that `conda` needs to update itself (installing things in this environment runs the risk of slowing down any update you want to make to `conda` itself). Just leave it as is and always work in an environment _you_ created.**
+
+Therefore, let's create a new python 3.x environment:
 
 ```bash
 $ conda create -n AI2024 python
 ```
 
 Note: "AI2024" is just a name, you can pick whatever you like.
-
-Command line: navigate to directory one level above anaconda3
 
 ```bash
 $ conda activate AI2024 # after that your prompt will show the env
