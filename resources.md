@@ -95,6 +95,8 @@ Grant Sanderson / 3Blue1Brown, [Essence of linear algebra](https://www.youtube.c
 
 Chris Piech, [Stanford CS109 Introduction to Probability for Computer Scientists I 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 
+Steve Brunton, [Probability Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
+
 David Mackay, [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) ([site](https://www.inference.org.uk/mackay/itila/))
 
 Gilbert Strang, [Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
