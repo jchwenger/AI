@@ -28,11 +28,11 @@ Cynthia Dwork, [The Emerging Theory of Algorithmic Fairness](https://www.youtube
 
 ## Additional resources
 
-### Deep Learning
-
-#### Refreshers
+### Python Refresher
 
 Ana Bell, [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022 ](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
+
+### Deep Learning
 
 #### Practical approaches
 
@@ -47,7 +47,7 @@ Sasha Rush et al, [MiniTorch](https://minitorch.github.io/)
 
 Sebastian Raschka, [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
-#### Theory
+#### Deep Learning
 
 Andrew Ng, [Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) ([site](https://cs230.stanford.edu/))
 
@@ -57,29 +57,37 @@ Sergey Levine, [Berkeley CS 182 Deep Learning](https://www.youtube.com/playlist?
 
 Yann LeCun & Alfredo Canziani, [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) ([site](https://atcold.github.io/NYU-DLSP21/))
 
-### Unsupervised Learning, Vision, NLP, etc.
+#### Artificial Intelligence (general)
 
-Percy Liang and Dorsa Sadigh, [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) ([site](https://stanford-cs221.github.io/spring2024/))
+Percy Liang and Dorsa Sadigh, [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) ([site](https://stanford-cs221.github.io/spring2024/)) ([site](https://stanford-cs221.github.io/autumn2025/))
 
-Fei-Fei Li et al, [Stanford CS231 Computer Vision](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) ([site](http://cs231n.stanford.edu/))
+Cameron Allen and Michael K. Cohen, [Berkeley CS 188 Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv), ([2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF), with Pieter Abbeel and Igor Mordatch) ([site](https://inst.eecs.berkeley.edu/~cs188/fa24/))
 
-Chris Manning et al, [Stanford CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)), ([site](https://web.stanford.edu/class/cs224n/))
+#### Special & Advanced topics
+
+Fei-Fei Li et al, [Stanford CS231 Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) ([2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)) ([site](http://cs231n.stanford.edu/))
+
+Chris Manning et al, [Stanford CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([site](https://web.stanford.edu/class/cs224n/))
+
+Christopher Potts, [Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([site](https://web.stanford.edu/class/cs224u/index.html))
 
 Stefano Ermon, [Stanford CS236: Deep Generative Models | 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) ([site](https://deepgenerativemodels.github.io/))
 
 Pieter Abbeel et al, [Berkeley CS 284-158 Deep Unsupervised Learning -- Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) ([2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP))
 
-Pieter Abbeel, Igor Mordatch, [Berkeley CS 188 Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
+[Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) ([site](https://web.stanford.edu/class/cs25/))
 
-[Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+Afshine Amidi & Shervine Amidi, [CME 295 - Transformers & Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) ([site](https://cme295.stanford.edu/))
 
-Chelsea Finn, [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36))
+Chelsea Finn, [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) ([2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36)) ([site](https://cs330.stanford.edu/))
 
-Jure Leskovec, [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) ([2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
+Jure Leskovec, [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) ([2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)) ([site](https://web.stanford.edu/class/cs224w/))
 
-### Deep Reinforcement Learning
+#### Deep Reinforcement Learning
 
-Emma Brunskill, [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+Emma Brunskill, [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
+
+Chelsea Finn, [Stanford CS224R Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
 
 Pieter Abbeel et al, [Deep RL Bootcamp 2017](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 
@@ -117,7 +125,7 @@ Michael Nielsen, [Neural Networks and Deep Learning](http://neuralnetworksanddee
 
 ## Books
 
-Francois Chollet, [*Deep Learning with Python, Second Edition*](https://www.google.co.uk/books/edition/Deep_Learning_with_Python_Second_Edition/mjVKEAAAQBAJ?hl=en&gbpv=0)
+Francois Chollet, [*Deep Learning with Python, Third Edition*](https://deeplearningwithpython.io/)
 
 Ian Goodfellow, Yoshua Bengio and Aaron Courville, [*Deep Learning*](https://www.deeplearningbook.org/)
 
