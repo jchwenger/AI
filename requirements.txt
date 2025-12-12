@@ -1,4 +1,6 @@
 jupyter
+keras
+keras-hub
 tensorflow
 numpy
 matplotlib
