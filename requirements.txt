@@ -7,3 +7,4 @@ matplotlib
 unidecode
 pillow
 tqdm
+kagglehub
