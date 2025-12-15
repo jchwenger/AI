@@ -14,5 +14,11 @@
 **/spa-eng
 **/glove
 **/jena
+**/coco
+**/oxford-pets
 
 **/models
+
+# PyTorch experiiments
+**/*.PT.ipynb
+**/MNIST
